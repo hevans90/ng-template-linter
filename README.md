@@ -6,9 +6,7 @@ To get started, there are 3 scripts in the `package.json`:
 
 - `lint:html`: lints all HTML files in the `apps/` directory
 - `lint:html:pre-commit`: lints any HTML files currently staged using git
-- `format:html:commit`: lints & formats any HTML files currently staged using git
-- `format:html:apps`: recursively lints & formats all HTML files underneath all apps in the repo
-
+- `test`: runs the project's unit tests!
 
 ## Linting
 
